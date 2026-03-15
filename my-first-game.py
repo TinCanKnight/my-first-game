@@ -4,6 +4,8 @@ import math
 
 pygame.init()
 
+#test
+
 WIDTH, HEIGHT = 900, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Fancy Particle Playground")
